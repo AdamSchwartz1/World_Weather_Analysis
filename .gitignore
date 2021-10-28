@@ -3,6 +3,7 @@ config.py
 #Add additional files
 API_practice.ipynb
 random_numbers.ipynb
+google_nearby_search.ipynb
 
 #Adding DS_Store
 .DS_Store   
